@@ -104,9 +104,27 @@ This project was built by a team of **6 members** as a collaborative mechanical 
 
 ---
 
-## 📸 Gallery
+## 📸 Photo images
 
-> *(Add photos or videos of the mechanism in action here)*
+> <img width="4032" height="3024" alt="IMG_5049" src="https://github.com/user-attachments/assets/55725c2e-ab73-4070-94a8-a58a37198d2f" />
+> <img width="4032" height="3024" alt="IMG_5046" src="https://github.com/user-attachments/assets/d09eac9a-3b4d-4d82-82b0-08601f376183" />
+
+><img width="3024" height="4032" alt="IMG_5042" src="https://github.com/user-attachments/assets/63a70440-f038-4f78-94c1-664c4778082e" />
+
+---
+
+
+## project video 
+
+>
+
+https://github.com/user-attachments/assets/bde4208e-c6ff-4afb-a786-ea46bff967ff
+
+
+
+
+
+
 
 ---
 
