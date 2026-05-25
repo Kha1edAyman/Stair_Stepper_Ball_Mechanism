@@ -1,4 +1,4 @@
-<img width="1216" height="657" alt="Screenshot 2026-05-25 at 10 16 01 PM" src="https://github.com/user-attachments/assets/fcd9ee77-3178-44cc-853a-b4f57ebac09d" /># ⚙️ Stair Stepper Ball Mechanism
+# ⚙️ Stair Stepper Ball Mechanism
 
 > A mechanical system that lifts a ball step-by-step up a staircase and returns it to the start through a waterfall drop — creating a continuous, self-repeating loop.
 
