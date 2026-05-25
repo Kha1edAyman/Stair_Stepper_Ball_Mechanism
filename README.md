@@ -1,4 +1,4 @@
-# ⚙️ Stair Stepper Ball Mechanism
+<img width="1216" height="657" alt="Screenshot 2026-05-25 at 10 16 01 PM" src="https://github.com/user-attachments/assets/fcd9ee77-3178-44cc-853a-b4f57ebac09d" /># ⚙️ Stair Stepper Ball Mechanism
 
 > A mechanical system that lifts a ball step-by-step up a staircase and returns it to the start through a waterfall drop — creating a continuous, self-repeating loop.
 
@@ -23,6 +23,27 @@ Ball returns to the starting position
        ↓
 Cycle repeats endlessly ♾️
 ```
+## Electrical circuit
+><img width="1216" height="657" alt="Screenshot 2026-05-25 at 10 16 01 PM" src="https://github.com/user-attachments/assets/5c455bb4-ff30-48dc-b900-9e6926d0dc17" />
+
+
+
+## 📸 Photo images
+
+> <img width="4032" height="3024" alt="IMG_5049" src="https://github.com/user-attachments/assets/55725c2e-ab73-4070-94a8-a58a37198d2f" />
+> <img width="4032" height="3024" alt="IMG_5046" src="https://github.com/user-attachments/assets/d09eac9a-3b4d-4d82-82b0-08601f376183" />
+
+><img width="3024" height="4032" alt="IMG_5042" src="https://github.com/user-attachments/assets/63a70440-f038-4f78-94c1-664c4778082e" />
+
+---
+
+
+## project video 
+
+>
+
+https://github.com/user-attachments/assets/bde4208e-c6ff-4afb-a786-ea46bff967ff
+
 
 ### Mechanical Stages
 
@@ -111,23 +132,6 @@ This project was built by a team of **6 members** as a collaborative mechanical 
 #### - Mariam Omran
 
 ---
-
-## 📸 Photo images
-
-> <img width="4032" height="3024" alt="IMG_5049" src="https://github.com/user-attachments/assets/55725c2e-ab73-4070-94a8-a58a37198d2f" />
-> <img width="4032" height="3024" alt="IMG_5046" src="https://github.com/user-attachments/assets/d09eac9a-3b4d-4d82-82b0-08601f376183" />
-
-><img width="3024" height="4032" alt="IMG_5042" src="https://github.com/user-attachments/assets/63a70440-f038-4f78-94c1-664c4778082e" />
-
----
-
-
-## project video 
-
->
-
-https://github.com/user-attachments/assets/bde4208e-c6ff-4afb-a786-ea46bff967ff
-
 
 
 
