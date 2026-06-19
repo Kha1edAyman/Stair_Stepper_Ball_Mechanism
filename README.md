@@ -123,6 +123,7 @@ The servo sweeps from 90° down to 0° in a continuous loop, providing the rotat
 
 This project was built by a team of **6 members** as a collaborative mechanical design and engineering project.
 
+#### - Menna Yousry 
 #### - Khaled Ayman
 #### - Ahmed wagdy
 #### - yousef rashad
